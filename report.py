@@ -23,4 +23,4 @@ pdf.image(filename,5,30, WIDTH/2-5)
 filename=plot_daily_total_cases_country(country='Spain',mode='Confirmed')
 pdf.image(filename,WIDTH/2+5,30, WIDTH/2-5)
 
-pdf.output('tuto1.pdf','F')
+pdf.output('tuto1d.pdf','F')
